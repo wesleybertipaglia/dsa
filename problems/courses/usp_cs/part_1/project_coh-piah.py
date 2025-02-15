@@ -73,7 +73,7 @@ def compara_assinatura(as_a, as_b):
     '''Essa funcao recebe duas assinaturas de texto e deve devolver o grau de similaridade nas assinaturas.'''
     soma_diferencas = 0
     for i in range(6):
-        soma_diferencas += abs(as_a[i] - as_b[i])
+        soma_diferencas += abs(as_a[i] - as_b[i])  # Diferença absoluta entre os traços
     return soma_diferencas / 6
 
 def calcula_assinatura(texto):
