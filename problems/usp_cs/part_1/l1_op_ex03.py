@@ -1,10 +1,8 @@
 '''
 Lista de exercícios Opcionais 1 - Exercício 3
 
----
 Faça um programa em Python que recebe um número inteiro e imprime seu dígito das 
 dezenas. 
----
 
 Exemplo 1:
 # Entrada de Dados:

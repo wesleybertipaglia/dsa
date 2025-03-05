@@ -1,10 +1,12 @@
-# platform: HackerRank
-# kit: Week Preparation Kit
-# title: Lonely Integer
-# url: https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/
+'''
+platform: HackerRank
+kit: Week Preparation Kit
+title: Lonely Integer
+url: https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/
 
-# description:
-# Given an array of integers, where all elements but one occur twice, find the unique element.
+description:
+Given an array of integers, where all elements but one occur twice, find the unique element.
+'''
 
 def lonely_integer(nums):
     nums_set = set()

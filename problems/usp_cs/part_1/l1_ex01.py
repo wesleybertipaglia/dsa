@@ -1,14 +1,12 @@
 '''
 Lista de exercícios 1 - Exercício 1
 
----
 Faça um programa em Python que receba o valor correspondente ao lado de um quadrado,
 calcule e imprima seu perímetro e sua área.
 
 Observação: a saída deve estar no formato: "perímetro: x - área: y"
 
 Abaixo um exemplo de como devem ser a entrada e saída de dados do programa:
----
 
 Exemplo:
 # Entrada de Dados: 

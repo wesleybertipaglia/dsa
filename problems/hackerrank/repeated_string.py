@@ -1,11 +1,13 @@
-# platform: HackerRank
-# kit: Interview Preparation Kit
-# title: Repeated String
-# url: https://www.hackerrank.com/challenges/repeated-string/
+'''
+platform: HackerRank
+kit: Interview Preparation Kit
+title: Repeated String
+url: https://www.hackerrank.com/challenges/repeated-string/
 
-# description:
-# There is a string, s, of lowercase English letters that is repeated infinitely many times. 
-# Given an integer, n, find and print the number of letter a's in the first  letters of the infinite string.
+description:
+There is a string, s, of lowercase English letters that is repeated infinitely many times. 
+Given an integer, n, find and print the number of letter a's in the first  letters of the infinite string.
+'''
 
 def repeated_string(s, n):
     count_a_in_s = s.count('a')

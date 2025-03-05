@@ -1,10 +1,12 @@
-# platform: HackerRank
-# title: Match Expressions
+'''
+platform: HackerRank
+title: Match Expressions
 
-# Description:
-# Given a list of strings, write a function that returns a list of strings that match the following regular expression:
-# 'a', 'aa' and 'bababbb' match
-# 'ab' and 'baba' do not match
+Description:
+Given a list of strings, write a function that returns a list of strings that match the following regular expression:
+'a', 'aa' and 'bababbb' match
+'ab' and 'baba' do not match
+'''
 
 import re
 

@@ -1,10 +1,12 @@
-# platform: HackerRank
-# kit: Week Preparation Kit
-# title: Diagonal Difference
-# url: https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/
+'''
+platform: HackerRank
+kit: Week Preparation Kit
+title: Diagonal Difference
+url: https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/
 
-# description:
-# Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+description:
+Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+'''
 
 def diagonalDifference(n, matrix):
     dia_primary = 0

@@ -14,17 +14,13 @@ Quando houver apenas uma raiz (ou seja, uma raiz com multiplicidade 2) imprima:
 
 a raiz desta equação é X
 
-ou
+ou onde X é o valor da raiz dupla:
 
 a raiz dupla desta equação é X
-
-onde X é o valor da raiz dupla
 
 Quando houver duas raízes reais imprima:
 
 as raízes da equação são X e Y
-
-onde X e Y são os valor das raízes.
 
 Além disso, no caso de existirem 2 raízes reais distintas, elas devem ser impressas em ordem crescente. Exemplos:
 

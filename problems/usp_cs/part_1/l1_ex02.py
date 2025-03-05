@@ -1,10 +1,8 @@
 '''
 Lista de exercícios 1 - Exercício 2
 
----
 Faça um programa em Python que receba quatro notas, calcule e imprima a média 
 aritmética.
----
 
 Exemplo:
 # Entrada de Dados:

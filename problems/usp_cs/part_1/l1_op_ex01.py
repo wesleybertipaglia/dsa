@@ -1,7 +1,6 @@
 '''
 Lista de exercícios Opcionais 1 - Exercício 1
 
----
 Uma empresa de cartão de crédito envia suas faturas por email com a seguinte 
 mensagem:
 
@@ -13,7 +12,6 @@ vencimento e o valor da fatura e imprima a mensagem com os dados recebidos,
 no mesmo formato da mensagem acima. Note que o programa imprime a saída em duas 
 linhas diferentes. Note também que, como não é preciso realizar cálculos, 
 o valor não precisa ser convertido para número, pode ser tratado como texto.
----
 
 Abaixo um exemplo de como deve ser a entrada e saída de dados do programa:
 
